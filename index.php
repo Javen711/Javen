@@ -24,7 +24,7 @@
     </nav>
     <div class="nav-line"></div>
     <div class="text-box">
-        <h1>Organize Your Events Seamlessly</h1>
+        <h1>Event Planner</h1>
         <p>Event Planner is your ultimate tool for automating the scheduling process, eliminating the hassle of back-and-forth communications.</p>
         <a href="" class="hero-btn">Discover More</a>
     </div>
