@@ -1,7 +1,13 @@
-<<<<<<< HEAD
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Planner</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
 <?php include('nav.php');?>
-=======
->>>>>>> 84f1fe7863b1e3af18dce5fab73903d30b616201
 <section class="features2">
     <h1>Boost Your Earnings</h1>
     <p>Book high-value meetings in seconds, turning scheduling into a strategic advantage.</p>

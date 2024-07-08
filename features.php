@@ -1,7 +1,12 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> 84f1fe7863b1e3af18dce5fab73903d30b616201
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Planner</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
 <section class="features">
     <h1>Exclusive Event Planner Features</h1>
     <div class="row">

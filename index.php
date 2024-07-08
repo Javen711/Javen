@@ -1,4 +1,4 @@
-git<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -9,24 +9,8 @@ git<!DOCTYPE html>
 </head>
 <body>
   <section class="header">
-<<<<<<< HEAD
    
   <?php include('nav.php');?>
-=======
-    <nav>
-        <a href="index.html"><img src=""></a>
-        <div class="nav-links" id="navLinks">
-            <i class="fa fa-times" onclick="hideMenu()"></i>
-            <ul>
-                <li><a href="">HOME</a></li>
-                <li><a href="">FEATURES</a></li>
-                <li><a href="">PRICING</a></li>
-                <li><a href="">CONTACT</a></li>
-            </ul>
-        </div>
-        <i class="fa fa-bars" onclick="showMenu()"></i>
-    </nav>
->>>>>>> 84f1fe7863b1e3af18dce5fab73903d30b616201
     <div class="nav-line"></div>
     <div class="text-box">
         <h1>Event Planner</h1>
@@ -82,7 +66,6 @@ git<!DOCTYPE html>
   <section class="features">
     <h1>Exclusive Event Planner Features</h1>
     <div class="row">
-<<<<<<< HEAD
         <div class="course-col">
             <h3>Event Organization</h3>
             <p>Effortlessly create, manage, and prioritize your events in one centralized location.</p>
@@ -92,17 +75,6 @@ git<!DOCTYPE html>
             <p>Share your thoughts and suggestions directly with our team to help us improve the platform.</p>
         </div>
         <div class="course-col">
-=======
-        <div class="feature-col">
-            <h3>Event Organization</h3>
-            <p>Effortlessly create, manage, and prioritize your events in one centralized location.</p>
-        </div> 
-        <div class="feature-col">
-            <h3>User Feedback</h3>
-            <p>Share your thoughts and suggestions directly with our team to help us improve the platform.</p>
-        </div>
-        <div class="feature-col">
->>>>>>> 84f1fe7863b1e3af18dce5fab73903d30b616201
             <h3>Custom Alerts</h3>
             <p>Receive timely alerts for upcoming events and important milestones to stay on track.</p>
         </div>

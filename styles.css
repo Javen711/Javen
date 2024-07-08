@@ -35,11 +35,7 @@ nav img{
     position: relative;
 }
 .nav-links ul li a{
-<<<<<<< HEAD
     color: #fbff06;
-=======
-    color: #8f8e8e;
->>>>>>> 84f1fe7863b1e3af18dce5fab73903d30b616201
     text-decoration: none;
     font-size: 13px;
 }
@@ -47,11 +43,7 @@ nav img{
     content: '';
     width: 0;
     height: 2px;
-<<<<<<< HEAD
     background: #31b9d4;
-=======
-    background: #2f565e;
->>>>>>> 84f1fe7863b1e3af18dce5fab73903d30b616201
     display: block;
     margin: auto;
     transition: 0.5s;
@@ -61,11 +53,7 @@ nav img{
 }
 /* styles.css */
 .nav-line {
-<<<<<<< HEAD
     border-top: 1px solid #cacaca; /* Adjust color and thickness as needed */
-=======
-    border-top: 1px solid #533dcf; /* Adjust color and thickness as needed */
->>>>>>> 84f1fe7863b1e3af18dce5fab73903d30b616201
     margin: -25px; /* Remove default margin for <hr> */
 }
 
@@ -81,11 +69,7 @@ nav img{
 }
 .text-box h1{
     font-size: 50px;
-<<<<<<< HEAD
     color: rgb(6, 162, 27);
-=======
-    color: rgb(103, 120, 121);
->>>>>>> 84f1fe7863b1e3af18dce5fab73903d30b616201
     font-weight: 800;
    
 }
@@ -98,11 +82,7 @@ nav img{
 .hero-btn{
     display: inline-block;
     text-decoration: none ;
-<<<<<<< HEAD
     color: rgb(230, 216, 23);
-=======
-    color: rgb(230, 23, 23);
->>>>>>> 84f1fe7863b1e3af18dce5fab73903d30b616201
     border: 1px solid #fff;
     padding: 12px 34px;
     font-size: 13px;
@@ -177,11 +157,7 @@ h3{
 }
 
 p{
-<<<<<<< HEAD
     color:#ffffff;
-=======
-    color:#777;
->>>>>>> 84f1fe7863b1e3af18dce5fab73903d30b616201
     font-size: 16px;
     font-weight: 700;
     line-height: 22px;
