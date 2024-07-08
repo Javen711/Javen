@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 <?php include('nav.php');?>
 
+=======
+>>>>>>> 84f1fe7863b1e3af18dce5fab73903d30b616201
 <section id="login-container">
     <section id="signup">
       <h2>Create an Account</h2>

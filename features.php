@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 84f1fe7863b1e3af18dce5fab73903d30b616201
 <section class="features">
     <h1>Exclusive Event Planner Features</h1>
     <div class="row">
